@@ -1,3 +1,0 @@
-files:
-  - source: /Emerald.App/Emerald.App/Strings/en-US/*.resw
-    translation: /Emerald.App/Emerald.App/Strings/%locale%/Resources.resw
