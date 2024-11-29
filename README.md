@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" alt="aventium softworks"></p>
+<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" alt="NeoLauncher Logo"></p>
 
 <h1 align="center">NeoLauncher</h1>
 
