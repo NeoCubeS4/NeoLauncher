@@ -1,6 +1,4 @@
-# Microsoft Authentication
 
-Authenticating with Microsoft is fully supported by Helios Launcher.
 
 ## Acquiring an Azure Client ID
 
