@@ -17,4 +17,4 @@ supportLink = "https://github.com/NeoCubeS4/NeoLauncher/issues"
 [ejs.welcome]
 welcomeHeader = "Bienvenue sur NeoLauncher !"
 welcomeDescription = "Vous êtes à quelques pas de rejoindre NeoCube ! Pour cela, vous devrez vous connecter à votre compte Microsoft (avec Minecraft Premium)."
-welcomeDescCTA = "Si vous rencontrez des difficultés ou si vous avez des remarques à faire, n'hésitez pas à nous les signaler sur notre Discord ou dans l'onglet "Issues" de notre GitHub."
+welcomeDescCTA = "Si vous rencontrez des difficultés ou si vous avez des remarques à faire, n'hésitez pas à nous les signaler sur notre Discord ou dans l'onglet Issues de notre GitHub."
