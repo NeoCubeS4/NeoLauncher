@@ -12,6 +12,7 @@
 
 
 
+
 | Platform | File |
 | -------- | ---- |
 | Windows x64 | `NeoLauncher-setup-VERSION.exe` |
@@ -62,7 +63,7 @@ Build for a specific platform.
 
 ---
 
-
+data : FICHIER DE BASE DE NEOCUBE SERVEUR
 [nodejs]: https://nodejs.org/en/ 'Node.js'
 [vscode]: https://code.visualstudio.com/ 'Visual Studio Code'
 [mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Main Process'

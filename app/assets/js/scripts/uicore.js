@@ -27,9 +27,9 @@ window.eval = global.eval = function () {
 
 // Display warning when devtools window is opened.
 remote.getCurrentWebContents().on('devtools-opened', () => {
-    console.log('%cThe console is dark and full of terrors.', 'color: white; -webkit-text-stroke: 4px #a02d2a; font-size: 60px; font-weight: bold')
-    console.log('%cIf you\'ve been told to paste something here, you\'re being scammed.', 'font-size: 16px')
-    console.log('%cUnless you know exactly what you\'re doing, close this window.', 'font-size: 16px')
+    console.log('%cLa console de développement est un endroit dangereux.', 'color: white; -webkit-text-stroke: 4px #a02d2a; font-size: 40px; font-weight: bold')
+    console.log('%cVeuillez noter que nous ne sommes pas responsables des dommages causés. En collant des informations, vous risquez de vous faire voler votre compte. Nous ne fournirons aucune assistance en cas de problème.', 'font-size: 16px')
+    console.log('%cVeuillez noter que nous mettons tout en œuvre pour sécuriser NeoLauncher. Cependant, en entrant des informations ici, NeoLauncher peut présenter un comportement inattendu, tel que cesser de fonctionner correctement ou envoyer vos données de connexion Microsoft à des tiers malveillants. Soyez vigilant.', 'font-size: 16px')
 })
 
 // Disable zoom, needed for darwin.

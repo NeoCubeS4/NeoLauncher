@@ -4,11 +4,8 @@
 title = "NeoLauncher indev"
 
 [ejs.landing]
-mediaGitHubURL = "#"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "#"
+mediaGitHubURL = "https://discord.gg/Hjxzn5G2wrssqdsd"
+mediaDiscordURL = "https://discord.gg/Hjxzn5G2wr"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/NeoCubeS4/NeoLauncher"
