@@ -1,0 +1,10 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NomDeVotreProjet - Releases</title>
+  <entry>
+    <id>urn:some-id</id>
+    <title>v2.0.0</title>
+    <updated>2025-02-23T00:00:00Z</updated>
+    <content type="html">Notes de cette version</content>
+    <link rel="alternate" href="https://github.com/NeoCubeS4/NeoLauncher/releases/tag/2.0.0"/>
+  </entry>
+</feed>
