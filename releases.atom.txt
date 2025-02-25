@@ -156,22 +156,6 @@
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/9703873?s=60&amp;v=4"/>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Repository/118847892/v2.0.3</id>
-    <updated>2023-03-31T01:01:21+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://github.com/NeoCubeS4/NeoLauncher/releases/tag/v2.0.3"/>
-    <title>Release v2.0.3 - Improve Error Message for Users w/out a MC Profile</title>
-    <content type="html">&lt;h2&gt;Release v2.0.3&lt;/h2&gt;
-&lt;p&gt;This update improves the error message for users who have not set up a MC profile for their Microsoft account. This can happen if the user purchases the game (either through minecraft.net or Xbox Game Pass) and does not set up a profile, or if the user does not own the game at all. An improved error message will now notify the user of this.&lt;/p&gt;
-&lt;h3&gt;Fixes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/22d2e064f354977e270fc05c479c2e5ee9031995/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/22d2e064f354977e270fc05c479c2e5ee9031995&quot;&gt;&lt;tt&gt;22d2e06&lt;/tt&gt;&lt;/a&gt; 2.0.3 - Improve error message for users without a mc profile.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <author>
-      <name>dscalzi</name>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/9703873?s=60&amp;v=4"/>
-  </entry>
-  <entry>
     <id>tag:github.com,2008:Repository/118847892/v2.0.2</id>
     <updated>2023-03-31T01:01:41+02:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/NeoCubeS4/NeoLauncher/releases/tag/v2.0.2"/>
@@ -182,22 +166,6 @@
 &lt;h3&gt;Fixes&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/ab3d4e9499ecb94ff9ffe8a3ccac8e89e8134fbb/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/ab3d4e9499ecb94ff9ffe8a3ccac8e89e8134fbb&quot;&gt;&lt;tt&gt;ab3d4e9&lt;/tt&gt;&lt;/a&gt; 2.0.2 - Make version parse regex more lenient, grant explicit permissions to github actions.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <author>
-      <name>dscalzi</name>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/9703873?s=60&amp;v=4"/>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Repository/118847892/v2.0.1</id>
-    <updated>2023-03-31T01:01:13+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://github.com/NeoCubeS4/NeoLauncher/releases/tag/v2.0.1"/>
-    <title>Release v2.0.1 - Fix Optional Java Build Version</title>
-    <content type="html">&lt;h2&gt;Release v2.0.1&lt;/h2&gt;
-&lt;p&gt;This is a bugfix for &lt;a href=&quot;https://github.com/NeoCubeS4/NeoLauncher/releases/tag/v2.0.0&quot;&gt;release v2.0.0&lt;/a&gt;. Some Java distributions (Oracle) may omit the build number in certain places, such as registry keys. This fix allows the build number to be optional.&lt;/p&gt;
-&lt;h3&gt;Fixes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/3295430c54a833bf43a98b5aa7905730c4356a0c/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/3295430c54a833bf43a98b5aa7905730c4356a0c&quot;&gt;&lt;tt&gt;3295430&lt;/tt&gt;&lt;/a&gt; 2.0.1 - Build is optional in Java versions (esp. Oracle).&lt;/li&gt;
 &lt;/ul&gt;</content>
     <author>
       <name>dscalzi</name>
